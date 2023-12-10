@@ -1,5 +1,5 @@
 # Nullify Product
-best iready cheat https://discord.gg/MTKVfKCf
+best iready cheat https://discord.gg/7QNQDd42
 
  **Clone the Repository:**
    ```bash
