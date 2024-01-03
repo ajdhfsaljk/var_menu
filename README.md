@@ -20,7 +20,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
    
 <h4>
-    <a href="https://discord.gg/PVDQzgkPTD">discord</a>
+    <a href="https://discord.gg/YNWNckjejM">discord</a>
    
   </h4>
 
