@@ -21,9 +21,12 @@ Maybe you can mention me or this repo in the acknowledgements too
    
 <h4>
     <a href="https://discord.gg/PVDQzgkPTD">discord</a>
-  <span> · </span>
    
   </h4>
+
+<p>
+  This menu is gonna be awsome once we have members, accounts and more developers!
+</p>
 </div>
 
 <br />
