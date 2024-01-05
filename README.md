@@ -28,7 +28,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   This menu is gonna be awsome once we have members, accounts and more developers!
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/773663586475048990)](https://discord.com/users/1183201137327869972)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1183201137327869972)](https://discord.com/users/1183201137327869972)
 </div>
 
 <br />
