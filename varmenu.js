@@ -172,14 +172,14 @@ DONT USE ANY ` IN THE CODE UNTIL CONVERSION TOOL IS DONE
         document.body.appendChild(nullify)
   
         let uiVisible = true;
-  
-        window.addEventListener("keydown", (event) => {
-          if (event.shiftKey) {
-            if (uiVisible) {
-              div.style.display = "none";
-            } else {
-              div.style.display = "grid";
-            }
-            uiVisible = !uiVisible;
+
+      window.addEventListener("keydown", (event) => {
+        if (event.code === "ShiftRight") {
+          if (uiVisible) {
+            div.style.display = "none";
+          } else {
+            div.style.display = "grid";
           }
-        });
+          uiVisible = !uiVisible;
+        }
+      });
